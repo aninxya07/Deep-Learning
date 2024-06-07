@@ -1,0 +1,1 @@
+for the dataset pls refer to the dataset folder & unzip the cats vs dogs zip file
